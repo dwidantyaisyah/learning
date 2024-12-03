@@ -1,7 +1,8 @@
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 import streamlit as st
+import seaborn as sns
 
 # Judul Dashboard
 st.title("Proyek Analisis Data: Bike Sharing Dataset")
